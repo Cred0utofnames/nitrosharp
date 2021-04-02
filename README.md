@@ -80,6 +80,3 @@ This project uses a number of third-party components. See [THIRDPARTY.md](https:
 * This project is non-commercial and is not affiliated with Nitroplus or MAGES. in any way.
 * This is a black-box reimplementation: the code in this project was written based on observing the runtime behavior of the original closed-source implementation.
 * No assets from any Nitroplus games are included in this repo.
-
-##Very important business
-e
